@@ -9,6 +9,8 @@
 ## General
 @@||acronis.com^$important
 @@||apple.com^$important
+@@||discord.com^$important
+@@||discord.gg^$important
 @@||docker.com^$important
 @@||github.com^$important
 @@||githubusercontent.com^$important
