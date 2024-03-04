@@ -1,9 +1,8 @@
 # Block List
 
-||fundingchoicesmessages.google.com^$important
-||p-n.io^$important
-||www.googleadservices.com^$important
-
+||fundingchoicesmessages.google.com^$important # ads
+||googleadservices.com^$important #ads
+||p-n.io^$important # dodgy china thing
 
 # Allow Lists
 
@@ -13,12 +12,12 @@
 @@||docker.com^$important
 @@||github.com^$important
 @@||githubusercontent.com^$important
-@@||google.com^$important
+@@||google.com^ # removed important to allow for the specific ad blocking to work
+@@||insynchq.com^$important
 @@||jetbrains.com^$important
 @@||icloud.com^$important
-@@||mask-api.icloud.com^$important
 @@||miro.com^$important
-@@||news.newshosting.com^$important
+@@||newshosting.com^$important
 @@||twitch.com^$important
 @@||twitter.com^$important
 @@||youtube.com^$important
@@ -26,6 +25,7 @@
 ## iot
 @@||meethue.com^$important
 @@||meross.com^$important
+@@||ring.com^$important
 
 ## Analytics
 @@||mixpanel.com^$important
@@ -39,7 +39,6 @@
 @@||pixel.quantcount.com^$important
 
 ## Meza
-
 @@||meza.hu^$important
 @@||meza.gg^$important
 @@||meza.codes^$important
