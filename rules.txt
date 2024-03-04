@@ -24,6 +24,7 @@
 @@||youtube.com^$important
 
 ## iot
+@@||aqara.com^$important
 @@||meethue.com^$important
 @@||meross.com^$important
 @@||ring.com^$important
