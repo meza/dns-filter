@@ -18,7 +18,7 @@
 @@||icloud.com^$important
 @@||miro.com^$important
 @@||newshosting.com^$important
-@@||twitch.com^$important
+@@||twitch.tv^$important
 @@||twitter.com^$important
 @@||youtube.com^$important
 
