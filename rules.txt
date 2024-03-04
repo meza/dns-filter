@@ -21,6 +21,7 @@
 @@||newshosting.com^$important
 @@||split.io^$important
 @@||spotify.com^$important
+@@||*spotify-com.akamaized.net^$important
 @@||twitch.tv^$important
 @@||twitter.com^$important
 @@||youtube.com^$important
