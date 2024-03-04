@@ -10,7 +10,10 @@
 ## General
 @@||acronis.com^$important
 @@||apple.com^$important
-@@||dns.google^$important
+@@||docker.com^$important
+@@||github.com^$important
+@@||githubusercontent.com^$important
+@@||google.com^$important
 @@||jetbrains.com^$important
 @@||icloud.com^$important
 @@||mask-api.icloud.com^$important
@@ -34,3 +37,16 @@
 @@||cc-api-data.adobe.io^$important
 @@||app-measurement.com^$important
 @@||pixel.quantcount.com^$important
+
+## Meza
+
+@@||meza.hu^$important
+@@||meza.gg^$important
+@@||meza.codes^$important
+@@||meza.fyi^$important
+@@||meza.wtf^$important
+@@||houseofmeza.com^$important
+@@||houseofmeza.games^$important
+@@||houseofmeza.store^$important
+@@||houseofmeza.tv^$important
+@@||minecraftmodmanager.com^$important
