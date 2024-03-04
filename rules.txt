@@ -27,6 +27,7 @@
 @@||meethue.com^$important
 @@||meross.com^$important
 @@||ring.com^$important
+@@||tado.com^$important
 
 ## Analytics
 @@||mixpanel.com^$important
