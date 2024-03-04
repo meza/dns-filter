@@ -19,6 +19,8 @@
 @@||icloud.com^$important
 @@||miro.com^$important
 @@||newshosting.com^$important
+@@||split.io^$important
+@@||spotify.com^$important
 @@||twitch.tv^$important
 @@||twitter.com^$important
 @@||youtube.com^$important
