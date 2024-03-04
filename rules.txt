@@ -12,7 +12,7 @@
 @@||docker.com^$important
 @@||github.com^$important
 @@||githubusercontent.com^$important
-@@||google.com^ # removed important to allow for the specific ad blocking to work
+@@||google.com^
 @@||insynchq.com^$important
 @@||jetbrains.com^$important
 @@||icloud.com^$important
