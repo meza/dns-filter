@@ -42,6 +42,7 @@
 @@||hotjar.com^$important
 @@||sentry.io^$important
 @@||posthog.com^$important
+@@||eu.i.posthog.com^$important
 @@||cc-api-data.adobe.io^$important
 @@||app-measurement.com^$important
 @@||pixel.quantcount.com^$important
