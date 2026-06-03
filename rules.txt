@@ -27,6 +27,7 @@
 @@||twitch.tv^$important
 @@||twitter.com^$important
 @@||youtube.com^$important
+@@||filebin.net^$important
 
 ## iot
 @@||aqara.com^$important
