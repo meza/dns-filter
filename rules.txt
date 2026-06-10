@@ -28,6 +28,7 @@
 @@||twitter.com^$important
 @@||youtube.com^$important
 @@||filebin.net^$important
+@@||api.radarr.video^important
 
 ## iot
 @@||aqara.com^$important
