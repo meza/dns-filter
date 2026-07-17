@@ -30,6 +30,9 @@
 @@||filebin.net^$important
 @@||api.radarr.video^important
 
+## Azure Entra Human Verification
+@@||fst-ec.perimeterx.net
+
 ## iot
 @@||aqara.com^$important
 @@||meethue.com^$important
