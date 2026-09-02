@@ -29,6 +29,7 @@
 @@||youtube.com^$important
 @@||filebin.net^$important
 @@||api.radarr.video^important
+@@||cname.vercel-dns.com^important
 
 ## Azure Entra Human Verification
 @@||fst-ec.perimeterx.net
