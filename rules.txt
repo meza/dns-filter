@@ -31,6 +31,10 @@
 @@||api.radarr.video^important
 @@||cname.vercel-dns.com^important
 
+## Cookies
+@@||onetrust.com^$important
+@@||cookielaw.org^$important
+
 ## Azure Entra Human Verification
 @@||fst-ec.perimeterx.net
 
