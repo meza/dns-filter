@@ -1,3 +1,8 @@
+# Rewrites
+
+## Npm to spock locally
+|npm.meza.gg^$dnsrewrite=NOERROR;A;192.168.10.20
+
 # Block List
 
 ||fundingchoicesmessages.google.com^$important # ads
